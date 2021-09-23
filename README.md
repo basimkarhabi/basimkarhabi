@@ -1,8 +1,10 @@
-[![Header](https://raw.basimkarhabi.com/basimkarhabi/<OWNER>/<OWNER>/readme_Header.png "Header")]
+![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Basem Karahbi
+</p>
+<h1 align='center'><i>Stay awesome!</i></h1>
 
-
-
-### Hi there 👋
 I'm Basem Karahbi
 I'm a Husband, Father, Developer, and Teacher!!
 🌱 I’m currently learning everything 🤣
