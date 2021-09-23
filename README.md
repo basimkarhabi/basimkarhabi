@@ -4,7 +4,8 @@
 
 ### Hi there 👋
 I'm Basem Karahbi
-a Web Developer,
+I'm a Husband, Father, Developer, and Teacher!!
+🌱 I’m currently learning everything 🤣
 <!--
 **basimkarhabi/basimkarhabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
