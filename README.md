@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Basem Karahbi
-a Web Developer, Designer & Creator
+a Web Developer,
 <!--
 **basimkarhabi/basimkarhabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
