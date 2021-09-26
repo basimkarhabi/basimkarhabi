@@ -3,7 +3,7 @@
 <p align='center'>
 I'm Basem Karahbi
 </p>
-<h1 align='center'><iKeep Learning!</i></h1>
+<h1 align='center'><i>Keep Learning!</i></h1>
 
 I'm Basem Karahbi
 I'm a Husband, Father, Developer, and Teacher!!
